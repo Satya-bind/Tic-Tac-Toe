@@ -1,4 +1,4 @@
-Here's a simple and structured `README.md` file for your project: 
+
 
 ```markdown
 # Tic-Tac-Toe Game 🎮
@@ -65,18 +65,6 @@ This is a simple **Tic-Tac-Toe game** implemented using HTML, CSS, and JavaScrip
 
 ---
 
-## Screenshots 📸
-
-_(Add screenshots of the game UI here to make it more appealing.)_
-
----
-
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contributions 💻
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
@@ -85,7 +73,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ### Author
 
-Developed with ❤️ by [Your Name](https://github.com/your-username).
+Developed with ❤️ by Satya-Bind
 ```
 
 ### Steps to Use:
